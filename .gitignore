@@ -1,0 +1,11 @@
+# Nuget
+\packages
+\packages\*
+repositories.config
+
+# VS
+.vs
+[Bb]in/
+[Oo]bj/
+*.csproj.user
+.idea/
